@@ -2,7 +2,7 @@
 
 Add a mesmerizing starry background effect to your webpage with this easy-to-use HTML, CSS, and JavaScript code!
 
-![Starry Background Demo](demo.gif)
+![Starry Background Demo](https://mir-s3-cdn-cf.behance.net/project_modules/disp/ace4ba107608503.5faaed457d1ce.gif)
 
 ## 🚀 Getting Started
 
@@ -31,9 +31,7 @@ The starry background effect was created using HTML, CSS, and JavaScript. Stars 
 
 ## 📚 References
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - For HTML, CSS, and JavaScript reference.
 - [CodePen](https://codepen.io/) - For inspiration and code examples.
-- [Stack Overflow](https://stackoverflow.com/) - For troubleshooting and community support.
 
 ## 🌟 Show Your Support
 
