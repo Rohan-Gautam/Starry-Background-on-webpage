@@ -4,7 +4,7 @@ Add a mesmerizing starry background effect to your webpage with this easy-to-use
 
 ![Starry Background Demo](https://mir-s3-cdn-cf.behance.net/project_modules/disp/ace4ba107608503.5faaed457d1ce.gif)
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 1. Clone or download this repository.
 2. Integrate the provided HTML, CSS, and JavaScript code into your webpage.
