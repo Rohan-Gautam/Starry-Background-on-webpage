@@ -39,7 +39,7 @@ If you find this project helpful, consider giving it a ⭐️. Contributions are
 
 ## 🌐 Live Demo
 
-[Click here](https://your-website-url.com) to view the live demo!
+[Click here](https://rohan-gautam.github.io/Starry-Background-on-webpage/) to view the live demo!
 
 ---
 
